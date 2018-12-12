@@ -5,6 +5,6 @@ Python implementation of Loop-TRG with NumPy (For 2D Ising model on square latti
 
 filtering.py: entanglement filtering
 
-optimizing.py: change the square lattice to octagon
+optimizing.py: change the square lattice to octagon, optimize cost function
 
 main.py: do the RG transform and calculate the thermodynamic quantities
